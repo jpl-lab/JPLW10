@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Bonjour je suis un script"
+echo "et my branche est ${GIT_BRANCH}"
